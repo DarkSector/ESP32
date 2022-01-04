@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "manager.h": "c",
+        "scheme_softap.h": "c"
+    }
+}
