@@ -13,7 +13,7 @@
 * Make sure platformio.ini has an environment setup
 * To upload `pio run --environment core2foraws --target upload`
 * To Erase `pio run --environment core2foraws --target erase`
-* To open the serial terminal `screen /dev/cu.SLAB_USBtoUART 115200` (Ctrl-A+K y to quit)
+* To open the serial terminal `screen /dev/cu.SLAB_USBtoUART 115200` (Ctrl-a k y to quit)
 
 
 ## Projects
