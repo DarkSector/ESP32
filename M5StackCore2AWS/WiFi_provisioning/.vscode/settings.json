@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "manager.h": "c",
-        "scheme_softap.h": "c"
+        "scheme_softap.h": "c",
+        "event_groups.h": "c",
+        "freertos.h": "c"
     }
 }
