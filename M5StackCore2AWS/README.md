@@ -21,4 +21,5 @@
 * Starter template
 * Hello World & Blinking LED
 * Hello World & Blinking LED using Free RTOS
-
+* Conect to WiFi
+* WiFi provisioning in SoftAP mode
