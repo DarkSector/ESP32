@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/esp_prov.iml" filepath="$PROJECT_DIR$/.idea/esp_prov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../components/protocomm/.idea/protocomm.iml" filepath="$PROJECT_DIR$/../../components/protocomm/.idea/protocomm.iml" />
+    </modules>
+  </component>
+</project>
